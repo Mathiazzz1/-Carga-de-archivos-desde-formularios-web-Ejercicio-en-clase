@@ -1,0 +1,10 @@
+C:\Users\pablo\Downloads\UspgLocalGalleryLab_patched\UspgLocalGalleryLab\src\main\java\com\darwinruiz\uspglocalgallerylab\controllers\DeleteServlet.java
+C:\Users\pablo\Downloads\UspgLocalGalleryLab_patched\UspgLocalGalleryLab\src\main\java\com\darwinruiz\uspglocalgallerylab\controllers\ListServlet.java
+C:\Users\pablo\Downloads\UspgLocalGalleryLab_patched\UspgLocalGalleryLab\src\main\java\com\darwinruiz\uspglocalgallerylab\controllers\UploadServlet.java
+C:\Users\pablo\Downloads\UspgLocalGalleryLab_patched\UspgLocalGalleryLab\src\main\java\com\darwinruiz\uspglocalgallerylab\controllers\ViewServlet.java
+C:\Users\pablo\Downloads\UspgLocalGalleryLab_patched\UspgLocalGalleryLab\src\main\java\com\darwinruiz\uspglocalgallerylab\dto\UploadResult.java
+C:\Users\pablo\Downloads\UspgLocalGalleryLab_patched\UspgLocalGalleryLab\src\main\java\com\darwinruiz\uspglocalgallerylab\repositories\IFileRepository.java
+C:\Users\pablo\Downloads\UspgLocalGalleryLab_patched\UspgLocalGalleryLab\src\main\java\com\darwinruiz\uspglocalgallerylab\repositories\LocalFileRepository.java
+C:\Users\pablo\Downloads\UspgLocalGalleryLab_patched\UspgLocalGalleryLab\src\main\java\com\darwinruiz\uspglocalgallerylab\services\ImageService.java
+C:\Users\pablo\Downloads\UspgLocalGalleryLab_patched\UspgLocalGalleryLab\src\main\java\com\darwinruiz\uspglocalgallerylab\util\ImageValidator.java
+C:\Users\pablo\Downloads\UspgLocalGalleryLab_patched\UspgLocalGalleryLab\src\main\java\com\darwinruiz\uspglocalgallerylab\util\NamePolicy.java
